@@ -1,4 +1,4 @@
-# ESBM - EarlyStopping customized to your own needs = metrices (including threshold optimization and best model serailization)
+# ESBM - EarlyStopping customized to your own needs
 
 Background
 This package will be assiting easily you with several training phases:
